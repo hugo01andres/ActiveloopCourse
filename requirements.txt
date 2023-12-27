@@ -6,3 +6,4 @@ selenium==4.15.2
 jupyter==1.0.0
 python-dotenv==1.0.0
 google-api-python-client==2.111.0
+pypdf==3.17.4
