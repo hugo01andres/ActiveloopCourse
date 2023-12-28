@@ -7,3 +7,5 @@ jupyter==1.0.0
 python-dotenv==1.0.0
 google-api-python-client==2.111.0
 pypdf==3.17.4
+requests==2.31.0
+newspaper3k==0.2.8
